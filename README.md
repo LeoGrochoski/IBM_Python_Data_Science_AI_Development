@@ -45,18 +45,19 @@ Repositorio do curso de Python para Ciência de Dados, Inteligência Artificial 
     * Resumir como as APIs recebem e enviam informações.
 
 ## Objetivo
-    O curso Python for Data Science, AI & Development faz parte da trilha de cursos para a certificação IBM Data Engineering Professional Certificate.
+
+O curso Python for Data Science, AI & Development faz parte da trilha de cursos para a certificação IBM Data Engineering Professional Certificate.
     
-    A engenharia de dados está relacionada a construção de sistemas para coleta dados, processamentos e organização de dados brutos em informações utilizáveis ​​e gerenciar dados. O trabalho dos engenheiros de dados fornece as informações básicas que os cientistas de dados e os analistas de business intelligence (BI) usam para fazer recomendações e tomar decisões.
+A engenharia de dados está relacionada a construção de sistemas para coleta dados, processamentos e organização de dados brutos em informações utilizáveis ​​e gerenciar dados. O trabalho dos engenheiros de dados fornece as informações básicas que os cientistas de dados e os analistas de business intelligence (BI) usam para fazer recomendações e tomar decisões.
 
 ### Habilidades que você ganhará
 
-<Data Science>
-<Data Analysis>
-<Python Programming>
-<ETL & Data Pipelines>
-<NoSQL and Big Data>
-<<SQL>
-<Apache Spark>
-<Database (DBMS)>
-<Relational Database Management Systems (RDBMS)>
+Data Science
+Data Analysis
+Python Programming
+ETL & Data Pipelines
+NoSQL and Big Data
+<SQL
+Apache Spark
+Database (DBMS)
+Relational Database Management Systems (RDBMS)
