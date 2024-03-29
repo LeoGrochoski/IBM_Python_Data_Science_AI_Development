@@ -52,12 +52,12 @@ A engenharia de dados está relacionada a construção de sistemas para coleta d
 
 ### Habilidades que você ganhará
 
-Data Science
-Data Analysis
-Python Programming
-ETL & Data Pipelines
-NoSQL and Big Data
-<SQL
-Apache Spark
-Database (DBMS)
-Relational Database Management Systems (RDBMS)
+- Data Science
+- Data Analysis
+- Python Programming
+- ETL & Data Pipelines
+- NoSQL and Big Data
+- SQL
+- Apache Spark
+- Database (DBMS)
+- Relational Database Management Systems (RDBMS)
